@@ -2,7 +2,7 @@
 
 Central engineering workspace and portfolio hub for cloud engineering, automation, infrastructure, and enterprise systems.
 
-![Status](https://img.shields.io/badge/status-active-success) ![Focus](https://img.shields.io/badge/focus-devops%20workspace-blue) ![Automation](https://img.shields.io/badge/automation-enabled-brightgreen) ![Architecture](https://img.shields.io/badge/structure-modular-orange) ![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-active-success)  ![Focus](<https://img.shields.io/badge/focus-devops%20workspace-blue>)  ![Automation](https://img.shields.io/badge/automation-enabled-brightgreen)  ![Architecture](https://img.shields.io/badge/structure-modular-orange)  ![License](https://img.shields.io/badge/license-MIT-green)
 
 ## Overview
 
@@ -17,8 +17,8 @@ It serves as the central index for:
 
 ## 🌐 Public Repositories
 
-| Repository                                          | Description                                                                                 |
-| --------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Repository                                            | Description                                                                                 |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | [Platform](https://github.com/Rideout421/Platform)     | Cloud-native home lab — Minikube, OpenFaaS, Prometheus, Grafana, MinIO, and OpenTofu IaC   |
 | [IconMatrix](https://github.com/Rideout421/IconMatrix) | Registry-driven VS Code icon theme with automated asset processing and dynamic icon mapping |
 

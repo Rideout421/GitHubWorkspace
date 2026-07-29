@@ -2,7 +2,7 @@
 
 Central engineering workspace and portfolio hub for cloud engineering, automation, infrastructure, and enterprise systems.
 
-![Status](https://img.shields.io/badge/status-active-success)  ![Focus](<https://img.shields.io/badge/focus-devops%20workspace-blue>)  ![Automation](https://img.shields.io/badge/automation-enabled-brightgreen)  ![Architecture](https://img.shields.io/badge/structure-modular-orange)  ![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-active-success) ![Focus](<https://img.shields.io/badge/focus-devops%20workspace-blue>) ![Automation](https://img.shields.io/badge/automation-enabled-brightgreen) ![Architecture](https://img.shields.io/badge/structure-modular-orange) ![License](https://img.shields.io/badge/license-MIT-green)
 
 ## Overview
 
